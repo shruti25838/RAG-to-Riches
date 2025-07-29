@@ -1,4 +1,5 @@
 gunicorn
+sentence-transformers
 flask-cors
 altair==5.1.2
 attrs==23.1.0
