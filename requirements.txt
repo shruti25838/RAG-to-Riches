@@ -1,5 +1,4 @@
 gunicorn
-python-3.10.9
 flask-cors
 altair==5.1.2
 attrs==23.1.0
