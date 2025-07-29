@@ -1,4 +1,5 @@
 gunicorn
+flask-cors
 pandas==2.1.3
 altair==5.1.2
 attrs==23.1.0
